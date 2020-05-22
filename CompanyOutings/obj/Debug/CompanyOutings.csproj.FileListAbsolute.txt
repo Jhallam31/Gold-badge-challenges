@@ -1,0 +1,7 @@
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\bin\Debug\CompanyOutings.exe.config
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\bin\Debug\CompanyOutings.exe
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\bin\Debug\CompanyOutings.pdb
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\obj\Debug\CompanyOutings.csprojAssemblyReference.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\obj\Debug\CompanyOutings.csproj.CoreCompileInputs.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\obj\Debug\CompanyOutings.exe
+C:\Users\jenna\source\repos\GoldBadge_Challenges\CompanyOutings\obj\Debug\CompanyOutings.pdb

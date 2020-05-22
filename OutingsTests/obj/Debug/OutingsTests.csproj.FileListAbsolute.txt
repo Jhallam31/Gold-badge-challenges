@@ -1,0 +1,17 @@
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\OutingsTests.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\OutingsTests.pdb
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\CompanyOutings.exe
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\CompanyOutings.pdb
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\CompanyOutings.exe.config
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\obj\Debug\OutingsTests.csprojAssemblyReference.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\obj\Debug\OutingsTests.csproj.CoreCompileInputs.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\obj\Debug\OutingsTests.csproj.CopyComplete
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\obj\Debug\OutingsTests.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\OutingsTests\obj\Debug\OutingsTests.pdb

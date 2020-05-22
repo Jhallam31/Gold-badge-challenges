@@ -1,0 +1,17 @@
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\KomodoClaims_Tests.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\KomodoClaims_Tests.pdb
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Komodo_Claims.exe
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Komodo_Claims.pdb
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Komodo_Claims.exe.config
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\obj\Debug\KomodoClaims_Tests.csprojAssemblyReference.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\obj\Debug\KomodoClaims_Tests.csproj.CoreCompileInputs.cache
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\obj\Debug\KomodoClaims_Tests.csproj.CopyComplete
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\obj\Debug\KomodoClaims_Tests.dll
+C:\Users\jenna\source\repos\GoldBadge_Challenges\KomodoClaims_Tests\obj\Debug\KomodoClaims_Tests.pdb
