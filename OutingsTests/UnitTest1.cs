@@ -16,8 +16,10 @@ namespace OutingsTests
         {
             //Arrange 
             SeedList();
+            
             //Act
             _repo.GetOutingsList();
+            
             //Assert
             int expected = 3;
             int actual = _outingsDirectory.Count;
@@ -36,6 +38,8 @@ namespace OutingsTests
             Outing cedarPoint = new Outing(OutingType.Amusement_Park, 11, seedOutingDate2, 95.20, 1047.20);
             _repo.AddOutingToList(bowlingTrip);
             _repo.AddOutingToList(cedarPoint);
+           
+            
             //Act
             _repo.CalculateGrandTotal();
 

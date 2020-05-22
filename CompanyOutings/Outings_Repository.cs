@@ -65,5 +65,6 @@ namespace CompanyOutings
             double outingCost = Math.Round(outingCostRough, 2);
             return outingCost;
         }
+
     }
 }

@@ -99,18 +99,7 @@ namespace Cafe_Tests
             int actual = _repo.GetFullMenu().Count;
             Assert.AreEqual(expected, actual);
         }
-        [TestMethod]
-        public void AddToListTest()
-        //TEST PASSED
-        {
-
-            string input = "milk";
-            //Arrange
-            bool wasAdded = _repo.AddIngredientToList(input);
-
-            Assert.IsTrue(wasAdded);
-        }
-        
+       
         
     }
         
